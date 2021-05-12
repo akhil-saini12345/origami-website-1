@@ -1,0 +1,16 @@
+h1{
+color:chartreuse
+}
+h2{
+color:black;
+}
+.title{
+display:flex;
+background-color: red;
+justify-content:center;
+}
+.head{
+display:flex;
+background-color:yellow;
+justify-content: space-around;
+}
